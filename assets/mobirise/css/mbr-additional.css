@@ -489,6 +489,9 @@ h6,
   background-color: #f2f2f2;
   border-color: #f2f2f2;
 }
+#features1-q .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #2e2e2e;
+}
 #social-buttons3-e .mbr-section-title,
 #social-buttons3-e .btn-social {
   color: #fff;
