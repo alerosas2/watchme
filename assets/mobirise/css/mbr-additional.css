@@ -478,9 +478,15 @@ h6,
 #features2-d .mbr-cards-col:nth-child(odd) .card-title {
   text-align: center;
 }
+#testimonials1-i .mbr-section-title {
+  color: #ffffff;
+}
 #header3-o .mbr-section-title,
 #header3-o .mbr-section-subtitle {
   text-align: center;
+}
+#header3-o H3 {
+  color: #ffffff;
 }
 #features4-p .card-subtitle {
   color: #bcbcbc;
@@ -488,6 +494,12 @@ h6,
 #features4-p .iconbox {
   background-color: #f2f2f2;
   border-color: #f2f2f2;
+}
+#features4-p P {
+  color: #ffffff;
+}
+#features4-p H4 {
+  color: #ffffff;
 }
 #header3-s .mbr-section-title,
 #header3-s .mbr-section-subtitle {
