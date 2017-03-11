@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 28,
+    "uniqCompNum": 29,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": ""
@@ -573,15 +573,15 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-r",
+          "_anchor": "header3-s",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff",
-            "showMeta": false
+            "showMeta": true
           },
           "title": "Sustentabilidad",
-          "meta": "By John Smith posted July 20, 2016"
+          "meta": ""
         },
         {
           "_tags": [
