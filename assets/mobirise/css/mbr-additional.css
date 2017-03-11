@@ -492,6 +492,15 @@ h6,
 #features1-q .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2e2e2e;
 }
+#features1-q .mbr-cards-col:nth-child(even) .card-title {
+  color: #000000;
+}
+#features1-q .mbr-cards-col:nth-child(odd) .card-title {
+  color: #ffffff;
+}
+#features1-q .mbr-cards-col:nth-child(even) .card-text {
+  text-align: center;
+}
 #social-buttons3-e .mbr-section-title,
 #social-buttons3-e .btn-social {
   color: #fff;

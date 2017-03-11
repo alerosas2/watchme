@@ -588,7 +588,7 @@
             "columns": "2",
             "showImages": false,
             "showTitles": true,
-            "showSubtitles": true,
+            "showSubtitles": false,
             "ShowTexts": true,
             "showButtons": false
           },
@@ -614,7 +614,7 @@
           },
           "title2": "Nutriologos",
           "subtitle2": "",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "caption2": "El sistema ofrece la posibilidad de dar un seguimiento personalizado a los pacientes usando la informacion que ingresan en la aplicacion movil para que los nutriologos tengan una mejor percepcion sobre los efectos del plan alimenticio asignado.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
@@ -667,6 +667,15 @@
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
               "background-color": "#2e2e2e"
+            },
+            ".mbr-cards-col:nth-child(even) .card-title": {
+              "color": "#000000"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-cards-col:nth-child(even) .card-text": {
+              "text-align": "center"
             }
           }
         },
@@ -694,8 +703,8 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "facebook": true,
-            "twitter": false,
-            "google": false,
+            "twitter": true,
+            "google": true,
             "vkontakte": false,
             "odnoklassniki": false
           },
