@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 27,
+    "uniqCompNum": 28,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": ""
@@ -564,6 +564,26 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-r",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "Sustentabilidad",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -612,9 +632,9 @@
               "active": true
             }
           },
-          "title2": "Nutriologos",
+          "title2": "Nutriólogos",
           "subtitle2": "",
-          "caption2": "El sistema ofrece la posibilidad de dar un seguimiento personalizado a los pacientes usando la informacion que ingresan en la aplicacion movil para que los nutriologos tengan una mejor percepcion sobre los efectos del plan alimenticio asignado.",
+          "caption2": "El sistema ofrece la posibilidad de dar un seguimiento personalizado a los pacientes usando la información que ingresan en la aplicación móvil para que los nutriólogos tengan una mejor percepción sobre los efectos del plan alimenticio asignado.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
@@ -694,11 +714,11 @@
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1278.jpg",
             "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
