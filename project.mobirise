@@ -201,8 +201,9 @@
               "name": "growing-chart",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "",
+              "size": 0,
+              "newWindow": false
             }
           },
           "title1": "Estadísticas",
@@ -216,8 +217,9 @@
               "name": "cash",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "",
+              "size": 0,
+              "newWindow": false
             }
           },
           "title2": "Inversión",
@@ -231,8 +233,9 @@
               "name": "sad-face",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "",
+              "size": 0,
+              "newWindow": false
             }
           },
           "title3": "Muertes",
@@ -490,9 +493,10 @@
               "name": "flag",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
-              "color": "black"
+              "color": "black",
+              "newWindow": false
             }
           },
           "title1": "Inicio de operaciones",
@@ -506,9 +510,10 @@
               "name": "profile-male",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
-              "color": "black"
+              "color": "black",
+              "newWindow": false
             }
           },
           "title2": "Equipo",
@@ -522,9 +527,10 @@
               "name": "alarmclock",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
-              "color": "black"
+              "color": "black",
+              "newWindow": false
             }
           },
           "title3": "Desarrollo",
