@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 29,
+    "uniqCompNum": 42,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/logo-128x96.png",
     "noImageResize": ""
@@ -743,6 +743,26 @@
             "odnoklassniki": false
           },
           "text": "Comparte esta página!"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-15",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Información obtenida de:&nbsp;Staff, F. &amp; Staff, F. (2017). Obesidad, un problema de 5,500 mdd para México - Forbes Mexico. Forbes Mexico. Retrieved 11 March 2017, from https://www.forbes.com.mx/obesidad-un-problema-de-5500-mdd-para-mexico/#gs.null"
         }
       ]
     },
